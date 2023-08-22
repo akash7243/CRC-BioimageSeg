@@ -1,0 +1,11 @@
+batch: 5
+epoch: 10
+n_flow: 32
+n_block: 4
+no_lu: false
+affine: false
+n_bits: 5
+lr: 0.0001
+img_size: 128
+temp: 0.7
+n_sample: 20
